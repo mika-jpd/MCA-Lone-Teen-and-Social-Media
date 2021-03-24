@@ -4,7 +4,7 @@ Project to understand how teens which did not fit in used social media and its i
 ## Table of Contens
 * [Description](#description)
 * [Dataset](#dataset)
-* [R Script](#r script)
+* [R Script](#rscript)
 
 ## Description
 A script that uses the Multiple Component Analysis' dimension reduction to identify variability in the way teens who did not fit in answered questions about their use of social media.
