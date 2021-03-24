@@ -13,7 +13,7 @@ I have posted a more detailed PDF of this case study with visuals and explanatio
 ## Dataset
 The dataset used is the result of a survey carried out by the Pew Research Center called “Teens and Tech Survey 2018”. It seeks to understand US teenager’s use and attitude towards social media. Exactly 1,000 teens between 13 and 17 years old were surveyed. 
 
-Link to dataset: https://corgis-edu.github.io/corgis/csv/slavery/
+Link to dataset: https://www.pewresearch.org/internet/dataset/teens-and-tech-survey-2018/
 
 ## R Script
 
